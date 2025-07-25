@@ -17,7 +17,7 @@ Investigar os fatores associados à perda de clientes e propor **insights e reco
 ## 📂 Estrutura do Projeto
 
 ```bash
-📁 challenge2-data-science/
+📁 telecom-churn-analysis/
 │
 ├── LICENSE.md                  # Licença MIT
 ├── README.md                   # Este arquivo
@@ -74,7 +74,7 @@ Investigar os fatores associados à perda de clientes e propor **insights e reco
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/Bainazz/challenge2-data-science.git
+git clone https://github.com/Bainazz/telecom-churn-analysis.git
 ```
 
 2. Instale as dependências:
