@@ -19,12 +19,12 @@ Investigar os fatores associados à perda de clientes e propor **insights e reco
 ```bash
 📁 challenge2-data-science/
 │
+├── LICENSE.md                  # Licença MIT
+├── README.md                   # Este arquivo
+├── Requirements.txt            # Dependências a serem instaladas
 ├── TelecomX_BR (1).ipynb       # Notebook com a análise completa
 ├── TelecomX_Data.json          # Base de dados utilizada
-├── TelecomX_dicionario.md      # Dicionário utilizado
-├── Requirements.txt            # Dependências a serem instaladas
-├── LICENSE.md                  # Licença MIT
-└── README.md                   # Este arquivo
+└── TelecomX_dicionario.md      # Dicionário utilizado
 ```
 
 ---
