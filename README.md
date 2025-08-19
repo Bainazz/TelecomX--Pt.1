@@ -17,7 +17,7 @@ Investigar os fatores associados à perda de clientes e propor **insights e reco
 ## 📂 Estrutura do Projeto
 
 ```bash
-📁 telecom-churn-analysis/
+📁 TelecomX--Pt.1/
 │
 ├── LICENSE.md                  # Licença MIT
 ├── README.md                   # Este arquivo
